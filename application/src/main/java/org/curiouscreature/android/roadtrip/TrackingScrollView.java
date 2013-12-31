@@ -47,4 +47,6 @@ public class TrackingScrollView extends ScrollView {
             mOnScrollChangedListener.onScrollChanged(this, l, t, oldl, oldt);
         }
     }
+    
+    public void abc(){}
 }
